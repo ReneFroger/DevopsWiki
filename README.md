@@ -286,7 +286,7 @@ https://atom.io/docs/v0.196.0/getting-started-why-atom
 
 Vim
 
-http://www.vim.org/about.php
+https://github.com/syl20bnr/spacemacs
 
 **[Back to top](#table-of-contents)**
 
